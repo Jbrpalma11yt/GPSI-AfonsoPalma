@@ -21,7 +21,4 @@ psi_19_11/
 │      
 ├── Pack_car.db
 │
-├── README.md
-│    
-│
-└── Seu_banco_de_dados.db
+└── README.md
